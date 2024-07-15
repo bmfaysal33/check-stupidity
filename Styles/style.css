@@ -17,7 +17,7 @@ body{
 
 .container{
     /* background-image: url(../projects.jpg); */
-    
+
     border: 2px solid rgba(0, 0, 0, 0.368);
     padding: 25px;
     padding-bottom: 90px;
@@ -36,8 +36,8 @@ body{
     border: none;
     border-radius: 15px;
     cursor: pointer;
-    background-color: rgba(3, 255, 3, 0.855);
-    box-shadow: 0 8px rgba(0, 94, 0, 0.849) ;
+    background-color: rgba(190, 8, 203, 0.97);
+    box-shadow: 0 8px rgba(69, 0, 78, 0.849) ;
 
 
     font-family: sans-serif;
